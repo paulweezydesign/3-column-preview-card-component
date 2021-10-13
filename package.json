@@ -1,0 +1,20 @@
+{
+    "name": "3-column-preview-card-component-main",
+    "version": "1.0.0",
+    "description": "![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)",
+    "main": "postcss.config.js",
+    "scripts": {
+        "dev": "vite"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "autoprefixer": "^10.3.7",
+        "postcss": "^8.3.9",
+        "vite": "^2.6.5"
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.0.0-alpha.1"
+    }
+}
